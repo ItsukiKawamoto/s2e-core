@@ -32,5 +32,9 @@
       "buildCommandArgs": "",
       "ctestCommandArgs": ""
     }
-  ]
+  ],
+  "settings": {
+    "cmake.sourceDirectory": "${workspaceFolder}/s2e-core",
+    "cmake.buildDirectory": "${workspaceFolder}/s2e-core/build/Debug"
+  }
 }
